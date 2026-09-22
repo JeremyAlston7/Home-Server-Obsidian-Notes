@@ -18,7 +18,6 @@ Home: ssh jeremyalston7@192.168.86.201
 Remote: ssh jeremyalston7@100.74.166.10
 
 GF's Raspberry Pi: ssh jeremyalston7@192.168.50.15
-- SSH Password: 113004
 
 ### Navigation
 - [[Docker]]
